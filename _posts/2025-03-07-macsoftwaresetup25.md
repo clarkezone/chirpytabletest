@@ -5,15 +5,17 @@ date: 2023-10-17
 categories: [macos, setup, software]
 ---
 
+I use Mac's, PC's and Linux machines in personal and work environments and from time to time i "repave" with a clean OS and clean app installs.  It can be interesting to track how the "initial install" changes for an any given OS over time, hence I decided to document this for next time both as a record for myself as well as to share it with you in case there is anything interesting.
+
 ## Productivity Core
 
 | Install Order | Application | Screenshot | Description | Why |
 |--------------|-------------|------------|-------------|-----|
-| 1 | Tailscale | <img src="https://tailscale.com/favicon.ico" width="64" alt="Tailscale"> | A zero-config VPN for building secure networks, connecting your devices and securing your services without the hassle of traditional VPNs. | |
-| 2 | Bitwarden | <img src="https://bitwarden.com/favicon.ico" width="64" alt="Bitwarden"> | A secure open-source password manager that helps you store, generate, and autofill passwords across all your devices. | |
-| 3 | Craft | <img src="https://www.craft.do/favicon.ico" width="64" alt="Craft"> | A beautiful and powerful document editor that helps you organize your thoughts, projects, and ideas with rich formatting options. | |
-| 4 | Fantastical | <img src="https://flexibits.com/favicon.ico" width="64" alt="Fantastical"> | A powerful calendar app with natural language processing, allowing you to quickly add events and manage your schedule. | |
-| 5 | Day One | <img src="https://dayoneapp.com/wp-content/themes/day-one-app/assets/img/day-one-app-logo.svg"  alt="Day One"> | A journaling app that helps you record your life with text, photos, and location data in a beautiful interface. | |
+| 1 | Tailscale | <img src="https://tailscale.com/favicon.ico" width="64" alt="Tailscale"> | A zero-config VPN for building secure networks, connecting your devices and securing your services without the hassle of traditional VPNs. | Tailscale is the first install for me on all devices as it's how all my devices connect to each other and to private services I self host at home. |
+| 2 | Bitwarden | <img src="https://bitwarden.com/favicon.ico" width="64" alt="Bitwarden"> | A secure open-source password manager that helps you store, generate, and autofill passwords across all your devices. | My prefered password manager. |
+| 3 | Craft | <img src="https://www.craft.do/favicon.ico" width="64" alt="Craft"> | A beautiful and powerful document editor that helps you organize your thoughts, projects, and ideas with rich formatting options. | I have tried many note taking and task management apps. Craft is the best one I've found so far if you are primarily on a Mac. If I could have only one app on a Mac it would be this. |
+| 4 | Fantastical | <img src="https://flexibits.com/favicon.ico" width="64" alt="Fantastical"> | A powerful calendar app with natural language processing, allowing you to quickly add events and manage your schedule. | Fantastical is what a calendar app should be. Native UI, thoughtful, centralized place for all my calendars from iCloud and Google calendar. |
+| 5 | Day One | <img src="https://dayoneapp.com/wp-content/themes/day-one-app/assets/img/day-one-app-logo.svg"  alt="Day One"> | A journaling app that helps you record your life with text, photos, and location data in a beautiful interface. | In order to funciton day to day, I lean on my journal as a place I can capture thoughts and feelings. Day one is my prefered solution. |
 
 ## Development GUI Tools
 
