@@ -5,7 +5,7 @@ date: 2023-10-17
 categories: [macos, setup, software]
 ---
 
-I use Mac's, PC's and Linux machines in personal and work environments and from time to time i "repave" with a clean OS and clean app installs.  It can be interesting to track how the "initial install" changes for an any given OS over time, hence I decided to document this for next time both as a record for myself as well as to share it with you in case there is anything interesting.
+I use Mac's, PC's and Linux machines and from time to time i "repave" with a clean OS and clean app installs.  It can be interesting to track how the "initial install" changes for an any given OS over time, hence I decided to document this for next time both as a record for myself as well as to share it with you in case there is anything interesting.
 
 ## Productivity Core
 
