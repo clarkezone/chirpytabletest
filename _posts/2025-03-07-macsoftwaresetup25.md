@@ -33,14 +33,14 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 
 | Install Order | Tool | Screenshot | Description | Why | App Web Link |
 |--------------|------|------------|-------------|-----|-------------|
-| 1 | brew | | The missing package manager for macOS, allowing easy installation of software and tools. | | |
-| 2 | gh | | GitHub's official command-line tool to interact with GitHub repositories from the terminal. | | |
+| 1 | brew | | The missing package manager for macOS, allowing easy installation of software and tools. | Brew is mandatory for development on MacOS. | |
+| 2 | gh | | GitHub's official command-line tool to interact with GitHub repositories from the terminal. | gh is the best way to interact with GitHub from the CLI. | |
 | 3 | git | | Distributed version control system for tracking changes in source code during development. | | |
-| 4 | git completions | | Command-line completions for git commands for faster workflow. | | |
+| 4 | git completions | | Command-line completions for git commands for faster workflow. | Needs no explanation. | |
 | 5 | gh completions | | Command-line completions for GitHub CLI commands. | | |
-| 6 | Podman | | A daemonless container engine for developing, managing, and running OCI containers. | | |
+| 6 | Podman | | A daemonless container engine for developing, managing, and running OCI containers. | Podman is better than docker and not encumbered by restrictive licensing terms. | |
 | 7 | Podman completions | | Command-line completions for Podman commands. | | |
-| 8 | Kubectl | | Command-line tool for running commands against Kubernetes clusters. | | |
+| 8 | Kubectl | | Command-line tool for running commands against Kubernetes clusters. | Since my home infra uses self-hosted Kubernetes clusters I need this. | |
 | 9 | Kubectl completions | | Command-line completions for Kubernetes commands. | | |
 | 10 | Kubeconfig for cluster4 | | Configuration file for accessing the Kubernetes cluster4. | | |
 | 11 | NASMKii access | | Access configuration for NASMKii storage system. | | |
