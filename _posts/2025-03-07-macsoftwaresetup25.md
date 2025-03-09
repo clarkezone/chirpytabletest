@@ -46,13 +46,6 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 11 | NASMKii access | | Access configuration for NASMKii storage system. | | |
 | 12 | SSH key for devbox5 | | SSH authentication keys for accessing the devbox5 development machine. | | |
 
-## Additional Productivity
-
-| Install Order | Application | Screenshot | Description | Why | App Web Link |
-|--------------|-------------|------------|-------------|-----|-------------|
-| 1 | Goodnotes | | A digital note-taking app that allows you to write, draw, annotate PDFs, and organize your notes. | | |
-| 2 | MindNode | | A mind mapping app that helps you organize your thoughts and visualize your ideas. | | |
-
 ## Video & Creative
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
@@ -132,3 +125,10 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 8 | TestFlight | | Apple's platform for testing beta versions of apps before they're released on the App Store. | | |
 | 9 | Developer | | Apple's developer app providing access to documentation, videos, and developer news. | | |
 | 10 | SF Symbols | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | | |
+
+## Additional Productivity
+
+| Install Order | Application | Screenshot | Description | Why | App Web Link |
+|--------------|-------------|------------|-------------|-----|-------------|
+| 1 | Goodnotes | | A digital note-taking app that allows you to write, draw, annotate PDFs, and organize your notes. | | |
+| 2 | MindNode | | A mind mapping app that helps you organize your thoughts and visualize your ideas. | | |
