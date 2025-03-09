@@ -97,10 +97,10 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
 |--------------|-------------|------------|-------------|-----|-------------|
-| 1 | Chronosync | | A robust file synchronization and backup tool for macOS with scheduling capabilities. | | |
-| 2 | Downie | | A video downloader that can extract videos from thousands of websites. | | |
-| 3 | Fission | | A fast and efficient audio editor for trimming, joining, and converting audio files. | | |
-| 4 | Screens 5 | | A remote desktop application that allows controlling other computers from your Mac. | | |
+| 1 | [Chronosync](https://www.econtechnologies.com/chronosync/overview.html) | | A robust file synchronization and backup tool for macOS with scheduling capabilities. | | |
+| 2 | [Downie](https://software.charliemonroe.net/downie/) | | A video downloader that can extract videos from thousands of websites. | | |
+| 3 | [Fission](https://rogueamoeba.com/fission/) | | A fast and efficient audio editor for trimming, joining, and converting audio files. | | |
+| 4 | [Screens 5](https://edovia.com/en/screens-mac/) | | A remote desktop application that allows controlling other computers from your Mac. | | |
 
 ## Crypto
 
