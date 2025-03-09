@@ -46,26 +46,6 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 11 | NASMKii access | | Access configuration for NASMKii storage system. | | |
 | 12 | SSH key for devbox5 | | SSH authentication keys for accessing the devbox5 development machine. | | |
 
-## Additional Development 
-
-| Install Order | Tool | Screenshot | Description | Why | App Web Link |
-|--------------|------|------------|-------------|-----|-------------|
-| 1 | Magic, Mojo | | Modern programming language for AI development with Python compatibility. | | |
-| 2 | Magic Mojo completions | | Command-line completions for Magic Mojo commands. | | |
-| 3 | NeoVim | | Hyperextensible Vim-based text editor focused on extensibility and usability. | | |
-| 4 | Atuin | | A magical shell history that synchronizes across all your machines. | | |
-| 5 | Starship | | A minimal, blazing-fast, and customizable prompt for any shell. | | |
-| 6 | Zelij | | A terminal workspace with batteries included, featuring multiplexer capabilities. | | |
-
-## Additional Development 
-
-| Install Order | Application | Screenshot | Description | Why | App Web Link |
-|--------------|-------------|------------|-------------|-----|-------------|
-| 1 | TryAstro | | A tool for exploring and testing applications built with the Astro web framework. | | |
-| 2 | TestFlight | | Apple's platform for testing beta versions of apps before they're released on the App Store. | | |
-| 3 | Developer | | Apple's developer app providing access to documentation, videos, and developer news. | | |
-| 4 | SF Symbols | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | | |
-
 ## Additional Productivity
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
@@ -137,3 +117,18 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 2 | Ledger | | Companion app for Ledger hardware wallets to manage crypto assets securely. | | |
 | 3 | Wallets | | Various cryptocurrency wallet applications for storing and managing digital assets. | | |
 | 4 | Brave | | A privacy-focused web browser with built-in ad blocking and cryptocurrency features. | | |
+
+## Additional Development 
+
+| Install Order | Tool | Screenshot | Description | Why | App Web Link |
+|--------------|------|------------|-------------|-----|-------------|
+| 1 | Magic, Mojo | | Modern programming language for AI development with Python compatibility. | | |
+| 2 | Magic Mojo completions | | Command-line completions for Magic Mojo commands. | | |
+| 3 | NeoVim | | Hyperextensible Vim-based text editor focused on extensibility and usability. | | |
+| 4 | Atuin | | A magical shell history that synchronizes across all your machines. | | |
+| 5 | Starship | | A minimal, blazing-fast, and customizable prompt for any shell. | | |
+| 6 | Zelij | | A terminal workspace with batteries included, featuring multiplexer capabilities. | | |
+| 7 | TryAstro | | A tool for exploring and testing applications built with the Astro web framework. | | |
+| 8 | TestFlight | | Apple's platform for testing beta versions of apps before they're released on the App Store. | | |
+| 9 | Developer | | Apple's developer app providing access to documentation, videos, and developer news. | | |
+| 10 | SF Symbols | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | | |
