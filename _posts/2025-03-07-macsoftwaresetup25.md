@@ -33,18 +33,19 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 
 | Install Order | Tool | Screenshot | Description | Why | App Web Link |
 |--------------|------|------------|-------------|-----|-------------|
-| 1 | brew | | The missing package manager for macOS, allowing easy installation of software and tools. | Brew is mandatory for development on MacOS. |y|
-| 2 | gh | | GitHub's official command-line tool to interact with GitHub repositories from the terminal. | gh is the best way to interact with GitHub from the CLI. |y|
-| 3 | git | | Distributed version control system for tracking changes in source code during development. | |y|
-| 4 | git completions | | Command-line completions for git commands for faster workflow. | Needs no explanation. |y|
-| 5 | gh completions | | Command-line completions for GitHub CLI commands. | |y|
-| 6 | podman | | A daemonless container engine for developing, managing, and running OCI containers. | Podman is better than docker and not encumbered by restrictive licensing terms. |y|
-| 7 | podman completions | | Command-line completions for Podman commands. | | |
-| 8 | kubectl | | Command-line tool for running commands against Kubernetes clusters. | Since my home infra uses self-hosted Kubernetes clusters I need this. |y|
-| 9 | kubectl completions | | Command-line completions for Kubernetes commands. | | |
-| 10 | Kubeconfig for cluster4 | | Configuration file for accessing the Kubernetes cluster4. | | |
-| 11 | NASMKii access | | Access configuration for NASMKii storage system. | | |
-| 12 | SSH key for devbox5 | | SSH authentication keys for accessing the devbox5 development machine. | | |
+| 1 | Atuin | | A magical shell history that synchronizes across all your machines. | |y|
+| 2 | brew | | The missing package manager for macOS, allowing easy installation of software and tools. | Brew is mandatory for development on MacOS. |y|
+| 3 | gh | | GitHub's official command-line tool to interact with GitHub repositories from the terminal. | gh is the best way to interact with GitHub from the CLI. |y|
+| 4 | git | | Distributed version control system for tracking changes in source code during development. | |y|
+| 5 | git completions | | Command-line completions for git commands for faster workflow. | Needs no explanation. |y|
+| 6 | gh completions | | Command-line completions for GitHub CLI commands. | |y|
+| 7 | podman | | A daemonless container engine for developing, managing, and running OCI containers. | Podman is better than docker and not encumbered by restrictive licensing terms. |y|
+| 8 | podman completions | | Command-line completions for Podman commands. | | |
+| 9 | kubectl | | Command-line tool for running commands against Kubernetes clusters. | Since my home infra uses self-hosted Kubernetes clusters I need this. |y|
+| 10 | kubectl completions | | Command-line completions for Kubernetes commands. | | |
+| 11 | Kubeconfig for cluster4 | | Configuration file for accessing the Kubernetes cluster4. | | |
+| 12 | NASMKii access | | Access configuration for NASMKii storage system. | | |
+| 13 | SSH key for devbox5 | | SSH authentication keys for accessing the devbox5 development machine. | | |
 
 ## Video Production & Creative
 
@@ -109,20 +110,19 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 2 | Phantom and Backpack Wallets | | Cryptocurrency wallet applications for storing and managing digital assets. | | |
 | 3 | Brave Browser | | A privacy-focused web browser with built-in ad blocking and cryptocurrency features. | |y|
 
-## Additional Development 
+## Additional Development Tools
 
 | Install Order | Tool | Screenshot | Description | Why | App Web Link |
 |--------------|------|------------|-------------|-----|-------------|
 | 1 | Mojo Lang | | Modern programming language for AI development with Python compatibility. | |y|
 | 2 | Mojo completions | | Command-line completions for Magic Mojo commands. | | |
 | 3 | NeoVim | | Hyperextensible Vim-based text editor focused on extensibility and usability. | |y|
-| 4 | Atuin | | A magical shell history that synchronizes across all your machines. | |y|
-| 5 | Starship | | A minimal, blazing-fast, and customizable prompt for any shell. | |y|
-| 6 | Zelij | | A terminal workspace with batteries included, featuring multiplexer capabilities. | |y|
-| 7 | TryAstro | | A tool for exploring and testing applications built with the Astro web framework. | |y|
-| 8 | TestFlight for MacOS | | Apple's platform for testing beta versions of apps before they're released on the App Store. | |y|
-| 9 | Apple Developer for MacOS | | Apple's developer app providing access to documentation, videos, and developer news. | |y|
-| 10 | SF Symbols for MacOS | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | |y|
+| 4 | Starship | | A minimal, blazing-fast, and customizable prompt for any shell. | |y|
+| 5 | Zelij | | A terminal workspace with batteries included, featuring multiplexer capabilities. | |y|
+| 6 | TryAstro | | A tool for exploring and testing applications built with the Astro web framework. | |y|
+| 7 | TestFlight for MacOS | | Apple's platform for testing beta versions of apps before they're released on the App Store. | |y|
+| 8 | Apple Developer for MacOS | | Apple's developer app providing access to documentation, videos, and developer news. | |y|
+| 9 | SF Symbols for MacOS | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | |y|
 
 ## Additional Productivity
 
