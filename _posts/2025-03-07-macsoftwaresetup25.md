@@ -7,29 +7,29 @@ categories: [macos, setup, software]
 
 I use Mac's, PC's and Linux machines and from time to time i "repave" with a clean OS and clean app installs.  It can be interesting to track how the "initial install" changes for an any given OS over time, hence I decided to document this for next time both as a record for myself as well as to share it with you in case there is anything interesting.
 
-## Productivity Core
+## Core Productivity Tools
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
 |--------------|-------------|------------|-------------|-----|-------------|
-| 1 | Tailscale | <img src="https://tailscale.com/favicon.ico" width="64" alt="Tailscale"> | A zero-config VPN for building secure networks, connecting your devices and securing your services without the hassle of traditional VPNs. | Tailscale is the first install for me on all devices as it's how all my devices connect to each other and to private services I self host at home. | |
-| 2 | Bitwarden | <img src="https://bitwarden.com/favicon.ico" width="64" alt="Bitwarden"> | A secure open-source password manager that helps you store, generate, and autofill passwords across all your devices. | My prefered password manager. | |
-| 3 | Craft | <img src="https://www.craft.do/favicon.ico" width="64" alt="Craft"> | A beautiful and powerful document editor that helps you organize your thoughts, projects, and ideas with rich formatting options. | I have tried many note taking and task management apps. Craft is the best one I've found so far if you are primarily on a Mac. If I could have only one app on a Mac it would be this. | |
-| 4 | Fantastical | <img src="https://flexibits.com/favicon.ico" width="64" alt="Fantastical"> | A powerful calendar app with natural language processing, allowing you to quickly add events and manage your schedule. | Fantastical is what a calendar app should be. Native UI, thoughtful, centralized place for all my calendars from iCloud and Google calendar. | |
-| 5 | Day One | <img src="https://dayoneapp.com/wp-content/themes/day-one-app/assets/img/day-one-app-logo.svg"  alt="Day One"> | A journaling app that helps you record your life with text, photos, and location data in a beautiful interface. | In order to funciton day to day, I lean on my journal as a place I can capture thoughts and feelings. Day one is my prefered solution. | |
+| 1 | [Tailscale](https://tailscale.com) | <img src="https://tailscale.com/favicon.ico" width="64" alt="Tailscale"> | A zero-config VPN for building secure networks, connecting your devices and securing your services without the hassle of traditional VPNs. | Tailscale is the first install for me on all devices as it's how all my devices connect to each other and to private services I self host at home. |y|
+| 2 | [Bitwarden](https://bitwarden.com) | <img src="https://bitwarden.com/favicon.ico" width="64" alt="Bitwarden"> | A secure open-source password manager that helps you store, generate, and autofill passwords across all your devices. | My prefered password manager. |y|
+| 3 | [Craft](https://www.craft.do) | <img src="https://www.craft.do/favicon.ico" width="64" alt="Craft"> | A beautiful and powerful document editor that helps you organize your thoughts, projects, and ideas with rich formatting options. | I have tried many note taking and task management apps. Craft is the best one I've found so far if you are primarily on a Mac. If I could have only one app on a Mac it would be this. |y|
+| 4 | [Fantastical](https://flexibits.com) | <img src="https://flexibits.com/favicon.ico" width="64" alt="Fantastical"> | A powerful calendar app with natural language processing, allowing you to quickly add events and manage your schedule. | Fantastical is what a calendar app should be. Native UI, thoughtful, centralized place for all my calendars from iCloud and Google calendar. |y|
+| 5 | [Day One](https://dayoneapp.com) | <img src="https://dayoneapp.com/wp-content/themes/day-one-app/assets/img/day-one-app-logo.svg"  alt="Day One"> | A journaling app that helps you record your life with text, photos, and location data in a beautiful interface. | In order to funciton day to day, I lean on my journal as a place I can capture thoughts and feelings. Day one is my prefered solution. |y|
 
-## Development GUI Tools
+## Core Development GUI Tools
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
 |--------------|-------------|------------|-------------|-----|-------------|
-| 1 | Zed | <img src="https://avatars.githubusercontent.com/u/123878921" width="64" alt="Zed"> | A high-performance, collaborative code editor designed for speed and modern collaboration. | | |
-| 2 | Xcode | <img src="https://developer.apple.com/favicon.ico" width="64" alt="Xcode"> | Apple's integrated development environment for creating apps for macOS, iOS, watchOS, and tvOS. | | |
-| 3 | Ghostty | <img src="https://ghostty.org/favicon.ico" width="64" alt="Ghostty"> | A fast, feature-rich terminal emulator designed for developers with modern UI elements. | | |
-| 4 | Ghost remote | <img src="https://cdn-icons-png.flaticon.com/512/5261/5261905.png" width="64" alt="Ghost remote"> | Terminal connection utility using the command: `infocmp -x \| ssh YOUR-SERVER -- tic -x -` | | |
-| 5 | Wakatime for Mac | <img src="https://wakatime.com/apple-touch-icon.png" width="64" alt="Wakatime"> | An automatic time tracking tool that measures your programming activity across different editors and projects. | | |
-| 6 | LM Studio | <img src="https://lmstudio.ai/favicon.ico" width="64" alt="LM Studio"> | A desktop app for running and experimenting with large language models locally on your device. | | |
-| 7 | VSCode | <img src="https://code.visualstudio.com/favicon.ico" width="64" alt="VSCode"> | Microsoft's powerful code editor with support for debugging, syntax highlighting, and thousands of extensions. | | |
+| 1 | [Zed](https://zed.dev/) | <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_icon.d67dc948.webp&w=32&q=100" width="64" alt="Zed"> | A high-performance, collaborative code editor designed for speed and modern collaboration. | |y|
+| 2 | [Xcode](https://developer.apple.com) | <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="64" alt="Xcode"> | Apple's integrated development environment for creating apps for macOS, iOS, watchOS, and tvOS. | |y|
+| 3 | [Ghostty](https://ghostty.org) | <img src="https://ghostty.org/favicon.ico" width="64" alt="Ghostty"> | A fast, feature-rich terminal emulator designed for developers with modern UI elements. | |y|
+| 4 | Ghost remote | <img src="https://ghostty.org/favicon.ico" width="64" alt="Ghost remote"> | Terminal connection utility using the command: `infocmp -x \| ssh YOUR-SERVER -- tic -x -` | | |
+| 5 | [Wakatime for Mac](https://wakatime.com) | <img src="https://wakatime.com/apple-touch-icon.png" width="64" alt="Wakatime"> | An automatic time tracking tool that measures your programming activity across different editors and projects. | |y|
+| 6 | [LM Studio](https://lmstudio.ai) | <img src="https://lmstudio.ai/favicon.ico" width="64" alt="LM Studio"> | A desktop app for running and experimenting with large language models locally on your device. | |y|
+| 7 | [VSCode](https://code.visualstudio.com) | <img src="https://code.visualstudio.com/favicon.ico" width="64" alt="VSCode"> | Microsoft's powerful code editor with support for debugging, syntax highlighting, and thousands of extensions. | |y|
 
-## Development CLI Tools
+## Core Development CLI Tools
 
 | Install Order | Tool | Screenshot | Description | Why | App Web Link |
 |--------------|------|------------|-------------|-----|-------------|
@@ -46,7 +46,7 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 11 | NASMKii access | | Access configuration for NASMKii storage system. | | |
 | 12 | SSH key for devbox5 | | SSH authentication keys for accessing the devbox5 development machine. | | |
 
-### Additional Development Tools (To Be Installed)
+## Additional Development 
 
 | Install Order | Tool | Screenshot | Description | Why | App Web Link |
 |--------------|------|------------|-------------|-----|-------------|
@@ -57,7 +57,7 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 5 | Starship | | A minimal, blazing-fast, and customizable prompt for any shell. | | |
 | 6 | Zelij | | A terminal workspace with batteries included, featuring multiplexer capabilities. | | |
 
-## Developer Tools
+## Additional Development 
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
 |--------------|-------------|------------|-------------|-----|-------------|
@@ -66,7 +66,7 @@ I use Mac's, PC's and Linux machines and from time to time i "repave" with a cle
 | 3 | Developer | | Apple's developer app providing access to documentation, videos, and developer news. | | |
 | 4 | SF Symbols | | Apple's library of iconography designed to integrate with San Francisco, the system font for Apple platforms. | | |
 
-## Productivity
+## Additional Productivity
 
 | Install Order | Application | Screenshot | Description | Why | App Web Link |
 |--------------|-------------|------------|-------------|-----|-------------|
