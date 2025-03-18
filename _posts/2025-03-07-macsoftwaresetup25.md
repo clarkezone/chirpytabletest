@@ -75,6 +75,7 @@ Second major use case after programming is video and audio production.  Many of 
 | 19 | <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" width="64" alt="Adobe Creative Cloud"><br>[Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | Suite of apps for graphic design, video editing, web development, photography, and more. |N|
 
 ## Communication
+Most of these are standard and well understood.
 
 | Install Order | Application | Description | Mac App Store |
 |--------------|-------------|-------------|-------------|
@@ -87,21 +88,21 @@ Second major use case after programming is video and audio production.  Many of 
 | 7 | <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t39.8562-6/473331855_950586116633330_4827030958030583698_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f537c7&_nc_ohc=x8JEsE_RTukQ7kNvgHjn0k7&_nc_oc=AdiHJoSPeJ5V60C9pr_HLRdxv9WVVcE97ElRS2-j6b-2UY_dP33MAJ5VkKYhyYCP2kA&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ATNuVwfhQlzSxZgO7rhgIEt&oh=00_AYFsKa2sfIfF_AJCpWIlyHgncPo41oVSHLUopSJaA-Kc0A&oe=67D60DCC" width="64" alt="FB Messenger"><br>[FB Messenger for MacOS](https://www.messenger.com/desktop) | Facebook's messaging platform for text, voice, and video communication. |Y|
 | 8 | <img src="https://signal.org/assets/images/favicon/favicon-32x32.png" width="64" alt="Signal"><br>[Signal for MacOS](https://signal.org/download/) | A privacy-focused messaging app with end-to-end encryption for secure communications. |N|
 | 9 | <img src="https://st1.zoom.us/zoom.ico" width="64" alt="Zoom"><br>[Zoom for MacOS](https://zoom.us/download) | A video conferencing platform for virtual meetings, webinars, and online events. |N|
-| 10 | <img src="https://mimestream.com/assets/icons/app-icon_96x96.png" width="64" alt="Mimestream"><br>[Mimestream for MacOS](https://mimestream.com) | A native macOS email client specifically designed for Gmail accounts with a modern interface. |N|
+| 10 | <img src="https://mimestream.com/assets/icons/app-icon_96x96.png" width="64" alt="Mimestream"><br>[Mimestream for MacOS](https://mimestream.com) | A native macOS email client specifically designed for Gmail accounts with a modern interface.  **CLARKEZONE TAKE:** I use Mimestream exclusively for gmail/gcal which is not my primary email system.  Mimestream is Mac native and I prefer it to the webUI from Google |N|
 
 ## Content
 
 | Install Order | Application | Description | Mac App Store |
 |--------------|-------------|-------------|-------------|
 | 1 | <img src="https://macautomationtips.com/wp-content/uploads/2020/06/kindle-icon-png-28.jpg.png" width="64" alt="Kindle"><br>[Kindle for MacOS](https://www.amazon.com/kindle-dbs/fd/kcp) | Amazon's e-reader app giving access to millions of books, magazines, and documents. |Y|
-| 2 | <img src="https://us1.discourse-cdn.com/flex026/uploads/firecore/original/3X/4/6/46ffd8cb3893cfaffeb5d66c3a5ced7ecc2cd37b.png" width="64" alt="Infuse"><br>[Infuse](https://firecore.com/infuse) | A beautiful media player that organizes and plays video files from various sources. |Y|
+| 2 | <img src="https://us1.discourse-cdn.com/flex026/uploads/firecore/original/3X/4/6/46ffd8cb3893cfaffeb5d66c3a5ced7ecc2cd37b.png" width="64" alt="Infuse"><br>[Infuse](https://firecore.com/infuse) | A beautiful media player that organizes and plays video files from various sources. **CLARKEZONE TAKE:** I switched to InFuse from Plex in early 2024 because InFuse doesn't need a server for metadata, just access to the media.  Metadata is sync'd via iCloud.  Since I exclusively consume content on AppleTV, this is fine, if you need x-plat access this won't be an option. I also like it as it plays nicely with Apple's audio routing to enable me to extract Dolby 5.1 surround into my Dante mixer. |Y|
 | 3 | <img src="https://cdn.jim-nielsen.com/macos/1024/reeder-5-2021-02-24.png?rf=1024" width="64" alt="Reeder"><br>[Reeder for MacOS](https://www.reederapp.com) | An elegant RSS reader application for following websites and news sources. |Y|
 
 ## Utilities
 
 | Install Order | Application | Description | Mac App Store |
 |--------------|-------------|-------------|-------------|
-| 1 | <img src="https://downloads.econtechnologies.com/media/ProductLogos/CS/ChronoSync-4.6-Logo-256.png" width="64" alt="Chronosync"><br>[Chronosync](https://www.econtechnologies.com/chronosync/overview.html) | A robust file synchronization and backup tool for macOS with scheduling capabilities. |N|
+| 1 | <img src="https://downloads.econtechnologies.com/media/ProductLogos/CS/ChronoSync-4.6-Logo-256.png" width="64" alt="Chronosync"><br>[Chronosync](https://www.econtechnologies.com/chronosync/overview.html) | A robust file synchronization and backup tool for macOS with scheduling capabilities. **CLARKEZONE Take:** I use ChronoSync primarily for syncing production video and audio files between different removable drives and my NAS.  |N|
 | 2 | <img src="https://software.charliemonroe.net/favicon.ico" width="64" alt="Downie"><br>[Downie](https://software.charliemonroe.net/downie/) | A video downloader that can extract videos from thousands of websites. |N|
 | 3 | <img src="https://rogueamoeba.com/global/images/icons/128/fission@2x.png" width="64" alt="Fission"><br>[Fission](https://rogueamoeba.com/fission/) | A fast and efficient audio editor for trimming, joining, and converting audio files. |N|
 | 4 | <img src="https://edovia.com/en/screens/images/s5-icon@2x.png" width="64" alt="Screens 5"><br>[Screens 5](https://edovia.com/en/screens-mac/) | A remote desktop application that allows controlling other computers from your Mac. |N|
