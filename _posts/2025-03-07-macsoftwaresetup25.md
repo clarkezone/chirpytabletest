@@ -2,10 +2,11 @@
 layout: post
 title: "MacOS software setup 2025"
 date: 2025-03-1
-categories: [macos, setup, software]
+categories: [macos, applications]
 ---
 
-I regularly perform clean installations on my Mac, PC, and Linux machines. To track how the initial setup process evolves over time, I'm documenting my installation steps. This serves as both a personal reference and a potentially useful guide for others.
+I regularly perform clean installations on my Mac, PC, and Linux machines. To track how the initial setup process evolves over time, I'm documenting my installation steps. This serves as both a personal reference and a potentially useful guide for others.  In this first post I'm covering MacOS which I'll follow next with the Windows version.  I hope you find something useful here.
+
 ## Core Productivity Tools
 All of these are pri 0 essential and hence are my first installs.  Apart from Tailscale, these all come from the Mac App Store.
 
@@ -51,7 +52,7 @@ A lot of development work happens on the CLI and getting a good CLI environment 
 
 ## Video Production & Creative
 
-Second major use case after programming is video and audio production.  Many of these tools are specialist and relate to specific hardware I use in my studio hence I won't go into details here (if you are interested feel free to reach out).
+My second major use case, after programming, is tools for video and audio production.  Many of these are specialist and relate to specific hardware I use in my studio hence I won't go into details here (if you are interested feel free to reach out).
 
 | Install Order | Application | Description | Mac App Store |
 |--------------|-------------|-------------|-------------|
@@ -66,8 +67,8 @@ Second major use case after programming is video and audio production.  Many of 
 | 10 | [Dante controller](https://www.audinate.com/products/software/dante-controller) | Network configuration and routing software for Dante audio networking. **CLARKEZONE TAKE:** I moved add my machines to Dante audio feeding a 32 channel Midas M32c.  The mixer just has a network jack, gets inputs over the network from Dante USB and virtual soundcards attached to every device.  Output is over the network to discrete speakers.  With this setup I can route the mix anywhere it is needed for recording, streaming or listening and do fancy things like reversible Dolby 5.1 speaker configurations that works either from my desk or from the couch at the other end of the room. |N|
 | 11 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/35/81/923581a4-895b-843f-9324-7af9cbd1a302/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg" width="64" alt="Mixeffect Pro"><br>[Mixeffect pro](https://mixeffect.app) | Advanced control software for Blackmagic Design ATEM switchers. |Y|
 | 12 | <img src="https://www.insta360.com/favicon.ico" width="64" alt="Insta360 Studio"><br>[Insta360 Studio](https://www.insta360.com/download/insta360-studio) | Editing software for 360° content from Insta360 cameras. |N|
-| 13 | <img src="https://cdn.sanity.io/images/sv8q1vrl/production/0d14c744641528511db506ce61c28d7b43174bcd-800x800.png?w=1440&q=90&auto=format" width="64" alt="Sidas Link Pro"><br>[Sidas Link Pro](https://www.sidas.com) | Professional video linking and synchronization software. |Y|
-| 14 | <img src="https://rive.app/favicon.ico" width="64" alt="Rive"><br>[Rive](https://rive.app) | Create interactive animations for apps, games, and websites. **CLARKEZONE TAKE:** Rive merits it's own post. A 2D animation tool and runtime that is gaining both capabilities and market acceptance at a dizzying rate. |Y|
+| 13 | <img src="https://cdn.sanity.io/images/sv8q1vrl/production/0d14c744641528511db506ce61c28d7b43174bcd-800x800.png?w=1440&q=90&auto=format" width="64" alt="Sidas Link Pro"><br>[Sidas Link Pro](https://www.sidas.com) | Professional video linking and synchronization software for controlling Aputure studio light fixtures. |Y|
+| 14 | <img src="https://rive.app/favicon.ico" width="64" alt="Rive"><br>[Rive](https://rive.app) | Create interactive animations for apps, games, and websites. **CLARKEZONE TAKE:** Rive is so interesting that it really merits it's own post. A 2D animation tool and runtime that is gaining both capabilities and market acceptance at a dizzying rate. |Y|
 | 15 | <img src="https://help.apple.com/assets/6679A72E92E641B6D907CD0C/6679A72FE32D2BB3610F762B/en_US/97f5f4dfe6df84d78caacff68ec63538.png" width="64" alt="Final Cut Pro"><br>[Final Cut Pro](https://www.apple.com/final-cut-pro/) | Apple's Final Cut Pro, a professional video editing software for macOS. |Y|
 | 16 | <img src="https://help.apple.com/assets/6679A6C176DE195EB80B2223/6679A6C476DE195EB80B2229/en_US/0744c3b7afa6c7476e97365930e89917.png" width="64" alt="Compressor"><br>[Compressor](https://www.apple.com/final-cut-pro/compressor/) | Apple's advanced video and audio encoding tool for Final Cut Pro projects. |Y|
 | 17 | <img src="https://cdn.jim-nielsen.com/macos/512/motion-2013-05-22.png?rf=512" width="64" alt="Motion"><br>[Motion](https://www.apple.com/final-cut-pro/motion/) | Apple's motion graphics software for creating stunning visual effects and animations. |Y|
@@ -92,11 +93,13 @@ Most of these are standard and well understood.
 
 ## Content
 
+Tools for consuming media.
+
 | Install Order | Application | Description | Mac App Store |
 |--------------|-------------|-------------|-------------|
 | 1 | <img src="https://macautomationtips.com/wp-content/uploads/2020/06/kindle-icon-png-28.jpg.png" width="64" alt="Kindle"><br>[Kindle for MacOS](https://www.amazon.com/kindle-dbs/fd/kcp) | Amazon's e-reader app giving access to millions of books, magazines, and documents. |Y|
 | 2 | <img src="https://us1.discourse-cdn.com/flex026/uploads/firecore/original/3X/4/6/46ffd8cb3893cfaffeb5d66c3a5ced7ecc2cd37b.png" width="64" alt="Infuse"><br>[Infuse](https://firecore.com/infuse) | A beautiful media player that organizes and plays video files from various sources. **CLARKEZONE TAKE:** I switched to InFuse from Plex in early 2024 because InFuse doesn't need a server for metadata, just access to the media.  Metadata is sync'd via iCloud.  Since I exclusively consume content on AppleTV, this is fine, if you need x-plat access this won't be an option. I also like it as it plays nicely with Apple's audio routing to enable me to extract Dolby 5.1 surround into my Dante mixer. |Y|
-| 3 | <img src="https://cdn.jim-nielsen.com/macos/1024/reeder-5-2021-02-24.png?rf=1024" width="64" alt="Reeder"><br>[Reeder for MacOS](https://www.reederapp.com) | An elegant RSS reader application for following websites and news sources. |Y|
+| 3 | <img src="https://cdn.jim-nielsen.com/macos/1024/reeder-5-2021-02-24.png?rf=1024" width="64" alt="Reeder"><br>[Reeder for MacOS](https://www.reederapp.com) | An elegant RSS reader application for following websites and news sources. **CLARKEZONE TAKE:** I very much like this take on an RSS reader although the most recent update went a little off the rails hence I'm sticking on Reeder 5.x. |Y|
 
 ## Utilities
 
