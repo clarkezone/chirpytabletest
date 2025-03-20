@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MacOS software setup 2025"
-date: 2025-03-1
+date: 2025-03-19
 categories: [macos, applications]
 ---
 
